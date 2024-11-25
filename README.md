@@ -1,5 +1,5 @@
 # Project Name: THE FLEX
-**Group #3** <br />
+**Group #1** <br />
 **Members:** <br />
 Eryck Paul S. Del Fonso — 22013042610 <br />
 Micheal Lance Kester Li — 22012297710 <br />
